@@ -13,7 +13,8 @@ graph TD
     D --> E[🎨 Animate Population Heatmap]
     E --> F[📍 Plot Governorate Markers]
     F --> G[💾 Export CSV + Visuals]
-</div> <div align="center">![Python](https://github.com/user-attachments/assets/fb9fa3b1-2541-4707-be9f-14b2035b45fb)
+</div> <div align="center">
+![Python](https://github.com/user-attachments/assets/fb9fa3b1-2541-4707-be9f-14b2035b45fb)
 
 ![BeautifulSoup](https://github.com/user-attachments/assets/4a68c038-5392-410e-8bd7-ec551fd9a740)
 
