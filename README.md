@@ -5,16 +5,6 @@
 
 Production-grade web scraper extracting comprehensive Egypt Governorates dataset (27 regions + 100+ cities) from CityPopulation.de using BeautifulSoup. Delivers structured CSV output with historical census data (1986-2023), area metrics, and animated matplotlib map visualizations with population density heatmaps and governorate growth animations. Achieves 100% data accuracy with automated cleaning pipeline.
 
-<div align="center">
-graph TD
-    A[🌐 Scrape CityPopulation.de] --> B[📊 Parse 27 Governorates]
-    B --> C[🔄 Clean & Wrangle Data]
-    C --> D[🗺️ Load Egypt Map]
-    D --> E[🎨 Animate Population Heatmap]
-    E --> F[📍 Plot Governorate Markers]
-    F --> G[💾 Export CSV + Visuals]
-</div> <div align="center">
-
     
 ![Python](https://github.com/user-attachments/assets/fb9fa3b1-2541-4707-be9f-14b2035b45fb)
 
